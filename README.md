@@ -1,4 +1,4 @@
-# TR-Benchmarking — Quick Run
+# TR-Benchmarking
 
 Tandem repeat benchmarking project.
 
@@ -71,3 +71,4 @@ while IFS=$'\t' read -r CRAM KARYOTYPE; do
 done < test_bam.list
 
 ```
+
